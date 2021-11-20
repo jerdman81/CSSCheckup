@@ -1,0 +1,52 @@
+.wrapper{
+    border: 10px solid black;
+    border-style: inset;
+    background-color: lightgrey;
+    margin: 30px;
+    padding: 30px;
+}
+
+#stars {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-image: linear-gradient(blue, white,blue);
+    position: fixed;
+    width: 35%;
+    height: 140px;
+}
+
+.stripe1{
+    background-image: linear-gradient(to right, rgba(255,0,0,1), rgba(255,0,0,0));
+    border: 10px transparent;
+    height: 20px;
+    width: 100%;
+    background-color: white;
+}
+
+.stripe2{
+    background-color: white;
+    border: 10px transparent;
+    height: 20px;
+    width: 100%;
+    background-color: white;
+}
+.stripe3{
+    background-image: linear-gradient(to right, rgba(255,0,0,1), rgba(255,0,0,1), rgba(255,0,0,0));
+    border: 10px transparent;
+    height: 20px;
+    width: 100%;
+    background-color: white;
+}
+
+.stripe4{
+    background-color: white;
+    border: 10px transparent;
+    height: 20px;
+    width: 100%;
+    background-color: white;
+}background-color: white;
+    border: 10px transparent;
+    height: 20px;
+    width: 100%;
+}
